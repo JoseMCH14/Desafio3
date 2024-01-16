@@ -1,0 +1,134 @@
+Body{
+    font-family: 'Raleway', sans-serif;
+    padding: 0;
+    margin:0;
+    min-width: 1366px;
+}
+
+p{
+    color: #fff;
+}
+.cabecera{
+    background-color: #000000 ;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    color: #fff;
+    font-weight: normal;
+}
+
+
+main{
+    background-color: #000000 ;
+}
+
+.imgp {
+background-image: url('../img/bg-header.jpg');
+background-repeat: no-repeat;
+opacity: 1;
+width: 1366px;
+height: 727px;
+}
+
+.explicacion{
+    display: flex;
+    justify-content: space-around;
+    }
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 475px;
+}
+
+.texto p{
+    font-weight: lighter;
+}
+
+.img0 {
+    width: 399px;
+    height: 237px;
+}
+
+.caracteristicas{
+    background-color: #1E1A13;
+    opacity: 0.98;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    color: #fff;
+}
+
+.iconos{
+    display: flex;
+    justify-items: center;
+}
+
+.item1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.item3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.galeria{
+    background-color: black;
+}
+
+.fotos{
+display: flex;
+justify-content: center;
+}
+
+.img1{
+    width: 316px;
+    height: 202px;
+    padding: 73px 0 73px 0;
+}
+
+.img2{
+    width: 316px;
+    height: 202px;
+    padding: 73px 15px 73px 15px;
+
+}
+
+.img3{
+    width: 316px;
+    height: 202px;
+    padding: 73px 0 73px 0;
+}
+
+footer{
+    background-color: #1E1A13;
+    opacity: 0.94;
+    text-align: center
+}
+
+.banner{
+margin: 0;
+}
+
+
+
+
+
+
